@@ -1,4 +1,4 @@
-package model; //Solucion
+package model;
 
 public class Reserva {
 
