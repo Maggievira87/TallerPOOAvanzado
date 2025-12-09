@@ -1,4 +1,4 @@
-package model;
+package model; //Solucion taller
 
 public class Reserva {
 
