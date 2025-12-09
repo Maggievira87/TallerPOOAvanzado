@@ -40,7 +40,7 @@ public class SistemaReservas {
         }
     }
 
-    public int comtarReservas(){
+    public int contarReserva(){
         return reservas.size();
     }
 }

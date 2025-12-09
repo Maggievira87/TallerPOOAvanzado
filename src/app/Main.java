@@ -20,7 +20,7 @@ public class Main {
 
         sistema.listaDeReserva();
 
-        System.out.println("Total de Reservas Solicitadas;" + sistema.comtarReservas());
+        System.out.println("Total de Reservas Solicitadas;" + sistema.contarReserva());
 
         try {
             sistema.eliminarReserva(16541);
@@ -29,7 +29,7 @@ public class Main {
         }
 
         sistema.listaDeReserva();
-        System.out.println("Total final:" + sistema.comtarReservas());
+        System.out.println("Total final:" + sistema.contarReserva());
 
     }
 }
